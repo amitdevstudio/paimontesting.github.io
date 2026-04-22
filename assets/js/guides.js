@@ -36,26 +36,26 @@ export const guides = [
       "Viridescent Venerer"
     ]
   },
-  {
-    id: 2,
-    title: "Nefer Support Build",
-    desc: "Best support setup for Nefer.",
-    type: "character",
-    image: "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/10/21/79a88934b1d04a698c1760fd9b76c60b_2727330890292955170.png?x-oss-process=image%2Fformat%2Cwebp",
-    content: "Support role guide with buffs, rotation and synergy tips.",
-    characterName: "Nefer",
-    weapons: ["Thrilling Tales of Dragon Slayers"],
-    materials: [
-      "Whopperflower Nectar", "Shimmering Nectar", "Energy Nectar",
-      "Guide to Transience", "Philosophies of Transience",
-      "Gilded Scale", "Crown of Insight"
-    ],
-    teamCharacters: ["Nefer", "Bennett", "Zhongli"],
-    artifacts: [
-      "Viridescent Venerer",
-      "Desert Pavilion Chronicle"
-    ]
-  },
+  // {
+  //   id: 2,
+  //   title: "Nefer Support Build",
+  //   desc: "Best support setup for Nefer.",
+  //   type: "character",
+  //   image: "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/10/21/79a88934b1d04a698c1760fd9b76c60b_2727330890292955170.png?x-oss-process=image%2Fformat%2Cwebp",
+  //   content: "Support role guide with buffs, rotation and synergy tips.",
+  //   characterName: "Nefer",
+  //   weapons: ["Thrilling Tales of Dragon Slayers"],
+  //   materials: [
+  //     "Whopperflower Nectar", "Shimmering Nectar", "Energy Nectar",
+  //     "Guide to Transience", "Philosophies of Transience",
+  //     "Gilded Scale", "Crown of Insight"
+  //   ],
+  //   teamCharacters: ["Nefer", "Bennett", "Zhongli"],
+  //   artifacts: [
+  //     "Viridescent Venerer",
+  //     "Desert Pavilion Chronicle"
+  //   ]
+  // },
   {
     id: 3,
     title: "Best Navia Team Comps",
